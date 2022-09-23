@@ -6,3 +6,6 @@ Using:
 
 * spaCy and spaCyTextBlob
 * Flask and Flask-RESTful
+
+
+![alt text](https://github.com/luisarmandom/sentiment-analyser-using-spacy-flask/blob/main/postman.png?raw=true)
